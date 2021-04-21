@@ -48,7 +48,7 @@ $ python3 Start_server.py
   * 👍 Stable addresses for your connected devices that are deployed in the field <br><br>
   * 🏹 Fast & Reliable <br><br>
   * ✌️ Unlimited connections <br><br>
-  * 👌 Auto Dispose tunnel in 2 hours <br><br>
+  * 👌 Auto Dispose tunnels <br><br>
 </h4>
 
 
