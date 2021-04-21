@@ -1,6 +1,10 @@
 # file-server-instantly
 
-[![deadlysnowman3308 - file-server-instantly](https://img.shields.io/static/v1?label=deadlysnowman3308&message=file-server-instantly&color=blue&logo=github)](https://github.com/deadlysnowman3308/file-server-instantly)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deadlysnowman3308/file-server-instantly/Hackingvila/screenshot/logo.PNG" alt="LOGO"/>
+</p>
+
+<br><br>
 
 ## 😀 Features 😀:
 <h4>
@@ -13,18 +17,11 @@
 7) Serve any local system directory. <br><br>
 </h4>
 
+[![deadlysnowman3308 - file-server-instantly](https://img.shields.io/static/v1?label=deadlysnowman3308&message=file-server-instantly&color=blue&logo=github)](https://github.com/deadlysnowman3308/file-server-instantly)
+
 <br>
 
-## Screenshots ::
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deadlysnowman3308/file-server-instantly/Hackingvila/screenshot/1.PNG" alt="1st"/>
-</p>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deadlysnowman3308/file-server-instantly/Hackingvila/screenshot/2.PNG" alt="2nd"/>
-</p>
-<br><br>
 
 Released under [MIT](/LICENSE) by [@deadlysnowman3308](https://github.com/deadlysnowman3308).
 
@@ -63,6 +60,17 @@ $ python3 Start_server.py
 <br>
 <br>
 <br>
+
+## Screenshots ::
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deadlysnowman3308/file-server-instantly/Hackingvila/screenshot/1.PNG" alt="1st"/>
+</p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deadlysnowman3308/file-server-instantly/Hackingvila/screenshot/2.PNG" alt="2nd"/>
+</p>
+<br><br>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
