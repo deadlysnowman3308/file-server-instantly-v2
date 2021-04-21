@@ -31,7 +31,10 @@ Released under [MIT](/LICENSE) by [@deadlysnowman3308](https://github.com/deadly
 ## :⌨️: Installation :⌨️:
 
 ```
-$ pip3 install -r requirements.txt
+$ git clone https://github.com/deadlysnowman3308/file-server-instantly
+$ cd file-server-instantly
+$ sudo chmod +x *
+$ sudo pip3 install -r requirements.txt
 ```
 <br>
 
