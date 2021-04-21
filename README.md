@@ -15,6 +15,17 @@
 
 <br>
 
+## Screenshots ::
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deadlysnowman3308/file-server-instantly/Hackingvila/screenshot/1.PNG" alt="1st"/>
+</p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deadlysnowman3308/file-server-instantly/Hackingvila/screenshot/2.PNG" alt="2nd"/>
+</p>
+<br><br>
+
 Released under [MIT](/LICENSE) by [@deadlysnowman3308](https://github.com/deadlysnowman3308).
 
 <br>
@@ -40,6 +51,7 @@ $ python3 Start_server.py
   * 🏹 Fast & Reliable <br><br>
   * ✌️ Unlimited connections <br><br>
 </h4>
+
 
 ## Tested on: -->
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/software-download/windows10)
