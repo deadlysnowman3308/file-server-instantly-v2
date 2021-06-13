@@ -15,7 +15,7 @@
 4) Expose any networked service to the internet. <br><br>
 5) Supports both HTTP and HTTPS tunnels. <br><br>
 6) End-to-End TLS Tunnels. <br><br>
-7) Serve any local system directory. <br><br>
+7) Serve any local system directory to public/internet. <br><br>
 </h4>
 
 [![deadlysnowman3308 - file-server-instantly](https://img.shields.io/static/v1?label=deadlysnowman3308&message=file-server-instantly&color=blue&logo=github)](https://github.com/deadlysnowman3308/file-server-instantly)
