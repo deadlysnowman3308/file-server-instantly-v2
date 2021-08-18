@@ -82,7 +82,7 @@ $ python3 Start_server_v2.py
 </p>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deadlysnowman3308/file-server-instantly/Hackingvila/screenshot/2.PNG" alt="2nd"/>
+  <img src="https://rawcdn.githack.com/deadlysnowman3308/file-server-instantly/817932c04dea79e730221099ae06808b6e5f9bcd/screenshot/2.PNG" alt="2nd"/>
 </p>
 <br><br>
 
