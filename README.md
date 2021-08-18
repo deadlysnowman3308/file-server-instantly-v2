@@ -46,6 +46,10 @@ $ sudo pip3 install -r requirements.txt
 
 ```
 $ sudo python3 Start_server_v2.py
+
+or
+
+$ python3 Start_server_v2.py
 ```
 
 ## File-server-instantly helped you with -->
