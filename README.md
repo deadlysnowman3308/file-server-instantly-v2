@@ -45,7 +45,7 @@ $ sudo pip3 install -r requirements.txt
 ## :🤔: Usages :🤔:
 
 ```
-$ sudo python3 Start_server.py
+$ sudo python3 Start_server_v2.py
 ```
 
 ## File-server-instantly helped you with -->
