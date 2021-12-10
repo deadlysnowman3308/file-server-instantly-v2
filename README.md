@@ -1,4 +1,4 @@
-# file-server-instantly
+# file-server-instantly-v2
 
 <br>
 <p align="center">
